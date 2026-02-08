@@ -1,6 +1,7 @@
 # Automotive Market Insights
 
-![Automotive-Market-Insights](Automotive Market Insights Image.PNG)
+![Automotive Market Insights](Automotive Market Insights Image.PNG)
+
 
 
 ## Project Overview
