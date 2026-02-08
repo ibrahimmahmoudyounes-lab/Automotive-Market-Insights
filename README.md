@@ -1,6 +1,6 @@
-# Automotive Market Insights Dashboard
+# Automotive Market Insights
 
-![Automotive Market Insights Dashboard](Automotive Market Insights Image.png)
+![Automotive Market Insights](Automotive Market Insights Image.png)
 
 ## Project Overview
 This project presents an interactive dashboard analyzing automotive market data to extract key business insights related to pricing, risk, vehicle specifications, and market distribution.
